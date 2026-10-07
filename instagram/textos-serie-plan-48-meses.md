@@ -344,62 +344,62 @@ Carrusel de cinco placas sobre Salud y Trabajo: cuándo consultar al Delegado de
 
 ---
 
-## C7 · El rol del Coordinador General
-Archivo: c7-rol-del-coordinador
+## C7 · El rol de la Coordinación General
+Archivo: c7-rol-de-la-coordinacion
 Tema: oscuro
 
 ### Placa 1 · portada
 Imagen: plan-48-meses-eric/imagenes/01-portada-coordinacion.png
-Kicker: Coordinación General
-Título: El rol del Coordinador General
-Texto: Eric Salomone Strunz conduce la Red Federal de Delegados de Enlace.
+Kicker: Coordinación General de Delegados de Enlace
+Título: Qué hace la Coordinación General
+Texto: Conduce la Red Federal de Delegados de Enlace desde UPCN.
 
 ### Placa 2 · paso
 Imagen: plan-48-meses-eric/imagenes/04-red-delegados.png
 Número: 01
-Kicker: Responsabilidad
+Kicker: Función
 Título: Ordenar la Red
 Texto: Padrón confiable, referentes identificados y canales de coordinación activos.
 
 ### Placa 3 · paso
 Número: 02
-Kicker: Responsabilidad
+Kicker: Función
 Título: Fijar criterios
 Texto: Acordar con cada área cómo se registra, se deriva, se escala y se cierra cada gestión.
 
 ### Placa 4 · paso
 Número: 03
-Kicker: Responsabilidad
+Kicker: Función
 Título: Respaldar a los Delegados
 Texto: Intervenir cuando un caso supera lo que se puede resolver en el organismo, para que ningún Delegado quede sin respuesta frente a sus compañeros.
 
 ### Placa 5 · paso
 Imagen: plan-48-meses-eric/imagenes/11-gobernanza.png
 Número: 04
-Kicker: Responsabilidad
+Kicker: Función
 Título: Articular
 Texto: Coordinar con Afiliaciones, Prestaciones, Legales, Salud y Trabajo y las seccionales, y elevar propuestas a la conducción.
 
 ### Placa 6 · paso
 Imagen: plan-48-meses-eric/imagenes/08-informacion-conduccion.png
 Número: 05
-Kicker: Responsabilidad
+Kicker: Función
 Título: Rendir resultados
 Texto: Presentar un tablero mensual, explicar las diferencias entre territorios y proponer decisiones concretas.
 
 ### Placa 7 · cierre
 Título: Cada problema llega a la conducción con una propuesta
-Texto: Esa es la tarea de la Coordinación General.
+Texto: Ese es el trabajo de la Coordinación General de Delegados de Enlace.
 
 ### Texto de la publicación
-Eric Salomone Strunz es el Coordinador General de Delegados de Enlace de UPCN.
+La Coordinación General de Delegados de Enlace conduce la Red Federal desde UPCN.
 
-Su tarea es ordenar la Red, fijar criterios con cada área, respaldar a los Delegados cuando un caso se complica, articular con la organización y rendir resultados ante la conducción.
+Ordena la Red, fija criterios con cada área, respalda a los Delegados cuando un caso se complica, articula con la organización y rinde resultados ante la conducción.
 
 #UPCN #DelegadosDeEnlace #RedFederal
 
 ### Texto alternativo
-Carrusel de siete placas con las cinco responsabilidades del Coordinador General de Delegados de Enlace.
+Carrusel de siete placas con las cinco funciones de la Coordinación General de Delegados de Enlace.
 
 ---
 
